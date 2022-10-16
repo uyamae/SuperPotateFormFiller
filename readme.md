@@ -1,6 +1,6 @@
 # スーパーポテト買取フォーム入力用Chrome 拡張
 
-ゲームショップ・スーパーポテトのオンライン買取(https://www.superpotato.com/kaitori/)のフォームにCSV 形式やスプレッドシートからコピーしたテキストの内容を入力するGoogle Chrome 拡張です。
+ゲームショップ・スーパーポテトのオンライン買取(https://www.superpotato.com/kaitori/) のフォームにCSV 形式やスプレッドシートからコピーしたテキストの内容を入力するGoogle Chrome 拡張です。
 
 ## Chrome 拡張のインストール方法
 
