@@ -1,0 +1,16 @@
+{
+    "name": "スーパーポテト買取フォーム入力",
+    "description": "スーパーポテト買取フォームに, CSV, スプレッドシートからコピーしたテキストを貼り付けます。",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "commands": {
+        "_execute_action": {
+            "description": "Run extension."
+        }
+    }
+}
